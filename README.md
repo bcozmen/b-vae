@@ -1,5 +1,5 @@
 # b_vae
 
-Pytorch implementation (jupyter notebook) for "β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK".
+Pytorch implementation (jupyter notebook) of "β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK".
 
 
